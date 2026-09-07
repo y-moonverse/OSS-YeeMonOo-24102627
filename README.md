@@ -5,9 +5,9 @@ I am an undergraduate student in the **Department of Computer Science and Engine
 This repository is dedicated to coursework and practical exercises for the *Open Source Software* course.
 
 ## Semester Objectives
-- Master fundamental version control workflows using **Git** and **GitHub**.
-- Gain practical experience with branching, merging, and collaborative software development.
-- Learn best practices for documentation and open-source licensing.
+- Master **Git & GitHub** workflows for version control.
+- Build **Python** skills using open-source tools.
+- Launch an independent **OSS project**.
 
 ## Contact & Links
 - **GitHub**: [y-moonverse](https://github.com/y-moonverse)
